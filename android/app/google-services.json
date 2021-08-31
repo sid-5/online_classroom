@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "499680042741",
+    "firebase_url": "https://online-classroom-b88dd-default-rtdb.firebaseio.com",
+    "project_id": "online-classroom-b88dd",
+    "storage_bucket": "online-classroom-b88dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499680042741:android:ac0ea5fceaec524d6b2fbc",
+        "android_client_info": {
+          "package_name": "com.example.online_classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499680042741-0hnsgo2vlnet4qoln7tp1h4jralhet5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online_classroom",
+            "certificate_hash": "0105a5fdfe77562b8465a7bb449baca973a8a8d9"
+          }
+        },
+        {
+          "client_id": "499680042741-1knulku7afg2e3vjermgk9njdmbcmb4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj7A_XOpzFi2RxtMl-Mh3OAZVB432AxMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499680042741-1knulku7afg2e3vjermgk9njdmbcmb4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
